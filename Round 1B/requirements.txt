@@ -1,0 +1,4 @@
+Flask
+PyMuPDF==1.23.5
+scikit-learn
+numpy

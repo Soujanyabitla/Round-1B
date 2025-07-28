@@ -1,0 +1,36 @@
+{
+  "metadata": {
+    "persona": "Student",
+    "job": "Student",
+    "docs": [
+      "computational_pathology_survey.pdf"
+    ],
+    "timestamp": "Mon Jul 28 16:07:30 2025"
+  },
+  "sections": [
+    {
+      "doc": "computational_pathology_survey.pdf",
+      "page": 1,
+      "text": "A New Era in Computational Pathology: A Survey",
+      "score": 0.0
+    },
+    {
+      "doc": "computational_pathology_survey.pdf",
+      "page": 1,
+      "text": "on Foundation and Vision-Language Models",
+      "score": 0.0
+    },
+    {
+      "doc": "computational_pathology_survey.pdf",
+      "page": 1,
+      "text": "I",
+      "score": 0.0
+    },
+    {
+      "doc": "computational_pathology_survey.pdf",
+      "page": 1,
+      "text": "arXiv:2408.14496v3  [cs.LG]  18 Sep 2024",
+      "score": 0.0
+    }
+  ]
+}
